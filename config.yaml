@@ -252,7 +252,7 @@ params:
     items:
       - title: Network of interconnected servers
         content: Network simulator, interconnects n number of vertices and calculates the weight of its edges by means of a mathematical formula.
-        image: /images/projects/profile.png
+        image: /images/Network.png
         featured:
           name: Video on Youtube
           link: https://www.youtube.com/watch?v=jPxRbvNX3rg
