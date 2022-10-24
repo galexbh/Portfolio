@@ -270,7 +270,7 @@ params:
 
       - title: File manager simulator
         content: Simple implementation of n-node trees for the simulation of a file and icon manager.
-        image: /images/projects/converter.jpg
+        image: /images/Simulator-file-manager.png
         featured:
           name: Video on Youtube
           link: https://www.youtube.com/watch?v=aYaunr5uZlM
@@ -283,7 +283,7 @@ params:
 
       - title: Academic Events
         content: Project in progress on a web application for the creation of events implementing JWT.
-        image: /images/projects/profile2.jpg
+        image: /images/events-api.png
         #featured:
         #  name: Demo V2
         #  link:
