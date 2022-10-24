@@ -44,7 +44,7 @@ params:
 
   theme:
     disableThemeToggle: false
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -126,7 +126,7 @@ params:
         - "Typescript"
         - "Go"
         - "Python"
-        - "Node"
+        - "Java"
         - ".NET"
 
   # Experience
@@ -196,12 +196,13 @@ params:
         school:
           name: "National Autonomous University of Honduras"
           url: "https://www.unah.edu.hn/"
-        date: "2018 - 2023"
+        date: "2018 - 2024"
         #GPA: "3.8 out of 5.0"
         content: |-
           Extracurricular Activities
             - Participant of COMPDES 2020. 
-            - Speaker of COMPDES 2022.
+            - Speaker at the workshop: "Domain Driven Designe with NodeJS and Express".
+            - Speaker at the workshop: "Development environments with Docker".
         #school:
         #name: "Massachusetts Institute of Technology"
         #url: "https://example.org"
