@@ -90,7 +90,7 @@ params:
     title: "Gabriel Barrientos"
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: https://hashnode.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1641474978948%2FThRQHD2-m.jpeg%3Fw%3D400%26h%3D400%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=640&q=75
+    image: https://cdn.hashnode.com/res/hashnode/image/upload/v1641474978948/ThRQHD2-m.jpeg?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp
     button:
       enable: true
       name: "Resume"
